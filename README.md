@@ -1,0 +1,3 @@
+# Alias
+- ../..// @components/
+# SCSS
